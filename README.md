@@ -12,3 +12,6 @@ Steps to reproduce:
 }
 ```
 * Open `index.ts` and notice that VSCode's version of TypeScript is used by default
+
+
+  [![Default version of TypeScript used by VSCode](VideoThumbnail.png)](https://www.youtube.com/watch?v=utwywOEt2_s)
