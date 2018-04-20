@@ -1,0 +1,24 @@
+{
+  "name": "vscode-typescript-default-version",
+  "version": "1.0.0",
+  "description": "Repo for testing default version of typescript used by VSCode",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trivikr/vscode-typescript-default-version.git"
+  },
+  "keywords": [
+    "VSCode",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "author": "Trivikram Kamat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trivikr/vscode-typescript-default-version/issues"
+  },
+  "homepage": "https://github.com/trivikr/vscode-typescript-default-version#readme"
+}
